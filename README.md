@@ -1,13 +1,27 @@
-## Hi there 👋
 # 👋 ¡Hola! Soy Francisco Campos Sandi
 
-🎓 Soy **estudiante de Ingeniería Informática**, apasionado por el desarrollo de software, la inteligencia artificial y la automatización de procesos.
+🎓 Soy estudiante de **Ingeniería Informática**, con interés en el desarrollo de software, automatización e inteligencia artificial aplicada a la educación.
 
-📍 Desde Costa Rica  
-🎥 Mira mi proyecto en TikTok: [Video](https://www.tiktok.com/@acadeller/video/7506934207474715926)  
-🚀 Fundador de [Acadeller](https://github.com/acadeller)
+🧠 Fundador de **[Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)**, un proyecto educativo que impulsa el uso de herramientas de IA en el aula.
 
 ---
+
+## 💻 Lenguajes y Tecnologías
+
+- **Lenguajes de Programación**:  
+  Python · JavaScript · Java · C# · C++
+
+- **Desarrollo Web**:  
+  HTML · CSS · React · Vue · PHP · Node.js · MySQL
+
+- **Herramientas**:  
+  Git · GitHub · VS Code · Postman · Figma
+
+---
+
+## 📫 Contacto
+
+📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
 
 ## 💻 Lenguajes y Tecnologías que uso
 
