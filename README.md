@@ -8,24 +8,26 @@
 
 ## 💻 Lenguajes y Tecnologías
 
-- **Lenguajes de Programación**:  
+- **Lenguajes de Programación:**  
   Python · JavaScript · Java · C# · C++
 
-- **Desarrollo Web**:  
+- **Desarrollo Web:**  
   HTML · CSS · React · Vue · PHP · Node.js · MySQL
 
-- **Herramientas**:  
+- **Herramientas:**  
   Git · GitHub · VS Code · Postman · Figma
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total,current,longest&card_width=495&card_height=195&type=svg&background-type=solid)](https://git.io/streak-stats)
+
 ---
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark" alt="GitHub Streak" /></a> 
+
 ## 📫 Contacto
 
 📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
 
-
+---
 
 ```json
 {
