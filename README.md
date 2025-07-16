@@ -19,15 +19,10 @@
 
 ---
 
-## 🔥 Racha de contribuciones
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=acadeller&theme=dark)](https://git.io/streak-stats)
-
----
-
 ## 📫 Contacto
 
 📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
+
 
 
 ```json
