@@ -21,8 +21,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=green_nur)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=green_nur.svg)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoCCR&theme=merko)](https://git.io/streak-stats)
 
 ---
 
