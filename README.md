@@ -9,7 +9,7 @@
 ## 💻 Languages and Technologies
 
 - **Programming Languages:**  
-  Python · JavaScript · Java · C# · C++
+  Python · JavaScript · Java · C# · C++ · LaTeX · Matlab · R Studio
 
 - **Web Development:**  
   HTML · CSS · React · Vue · PHP · Node.js · MySQL
@@ -37,15 +37,10 @@
 
 ---
 
-
-
 ## 📫 Contact
 
 📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)  
 
 📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/50687590160?text=Hi%20Francisco%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.)
 
-
 ---
-
-
