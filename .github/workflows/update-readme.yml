@@ -2,8 +2,8 @@ name: 🔄 Update README daily
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Todos los días a las 6:00 UTC
-  workflow_dispatch:      # Permite ejecutarlo manualmente
+    - cron: '0 6 * * *'  # Ejecuta todos los días a las 6:00 UTC
+  workflow_dispatch:      # Permite ejecutarlo manualmente desde GitHub
 
 jobs:
   update-readme:
@@ -26,4 +26,5 @@ jobs:
           git commit -am "📅 Auto-update README timestamp"
           git push
         continue-on-error: true
+
 
