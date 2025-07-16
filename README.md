@@ -21,6 +21,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
 
+## 🛠️ Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact)
+
 ---
 
 ## 📫 Contacto
