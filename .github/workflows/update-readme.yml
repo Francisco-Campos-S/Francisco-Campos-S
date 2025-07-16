@@ -1,9 +1,9 @@
-name: 🔄 Update README hourly
+name: 🔄 Update README every 5 minutes
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Cada hora, en el minuto 0
-  workflow_dispatch:      # Para que puedas ejecutarlo manualmente también
+    - cron: '*/5 * * * *'  # Cada 5 minutos
+  workflow_dispatch:       # Para poder ejecutarlo manualmente también
 
 jobs:
   update-readme:
