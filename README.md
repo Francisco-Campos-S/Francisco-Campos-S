@@ -18,6 +18,7 @@
   Git · GitHub · VS Code · Postman · Figma
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=green_nur)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
 
