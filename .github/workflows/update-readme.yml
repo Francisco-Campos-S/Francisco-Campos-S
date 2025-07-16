@@ -1,25 +1,24 @@
-name: 🔄 Update README daily
+name: 🔄 Update README hourly
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Ejecuta todos los días a las 6:00 UTC
-  workflow_dispatch:      # Permite ejecutarlo manualmente
+    - cron: '0 * * * *'  # Cada hora, en el minuto 0
+  workflow_dispatch:      # Para que puedas ejecutarlo manualmente también
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🧩 Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: 📝 Update README timestamp
+      - name: Update README timestamp
         run: |
-          echo "🕒 Updating timestamp in README..."
           DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP--> Last updated: $DATE|" README.md
 
-      - name: 🚀 Commit and push
+      - name: Commit and push changes
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
