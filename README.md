@@ -21,8 +21,7 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=%20%20%20%20Francisco-Campos-S&theme=merko&card_width=494)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=%20%20%20%20Francisco-Campos-S&theme=whatsapp-dark2&card_width=494)](https://git.io/streak-stats)
 ---
 
 ## 📊 GitHub Stats
