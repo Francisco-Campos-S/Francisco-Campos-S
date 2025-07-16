@@ -18,23 +18,13 @@
   Git · GitHub · VS Code · Postman · Figma
 
 ---
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark" alt="GitHub Streak" /></a>
+---
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark" alt="GitHub Streak" /></a> 
 ## 📫 Contacto
 
 📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
-[
-  "background" => "#151515",
-  "border" => "#E4E2E2",
-  "stroke" => "#E4E2E2",
-  "ring" => "#FB8C00",
-  "fire" => "#FB8C00",
-  "currStreakNum" => "#FEFEFE",
-  "sideNums" => "#FEFEFE",
-  "currStreakLabel" => "#FB8C00",
-  "sideLabels" => "#FEFEFE",
-  "dates" => "#9E9E9E",
-  "excludeDaysLabel" => "#9E9E9E",
-]
+
 
 
 ```json
