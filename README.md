@@ -40,8 +40,7 @@
 ## 📫 Contact
 
 ## 📫 Contact
-
-📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)  
+📘 Facebook: [![Facebook](https://img.shields.io/badge/Facebook-Profe%20Artificial-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)  
 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Campos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)  
 📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/50687590160?text=Hi%20Francisco%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.)
 
