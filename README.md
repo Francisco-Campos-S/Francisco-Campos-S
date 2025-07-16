@@ -37,8 +37,6 @@
 ---
 
 ## 📫 Contact
-
-## 📫 Contact
  [![Facebook](https://img.shields.io/badge/Facebook-Profe%20Artificial-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)  
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Campos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)  
