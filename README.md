@@ -27,7 +27,7 @@
 
 📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
 
----
+--- 
 
 ```json
 {
