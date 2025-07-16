@@ -1,58 +1,50 @@
-# 👋 ¡Hola! Soy Francisco Campos Sandi
+# 👋 Hi! I'm Francisco Campos Sandi
 
-🎓 Soy estudiante de **Ingeniería Informática**, con interés en el desarrollo de software, automatización e inteligencia artificial aplicada a la educación.
+🎓 I'm a **Computer Engineering** student, passionate about software development, automation, and artificial intelligence applied to education.
 
-🧠 Fundador de **[Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)**, un proyecto educativo que impulsa el uso de herramientas de IA en el aula.
+🧠 Founder of **[Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)**, an educational project that promotes the use of AI tools in the classroom.
 
 ---
 
-## 💻 Lenguajes y Tecnologías
+## 💻 Languages and Technologies
 
-- **Lenguajes de Programación:**  
+- **Programming Languages:**  
   Python · JavaScript · Java · C# · C++
 
-- **Desarrollo Web:**  
+- **Web Development:**  
   HTML · CSS · React · Vue · PHP · Node.js · MySQL
 
-- **Herramientas:**  
+- **Tools:**  
   Git · GitHub · VS Code · Postman · Figma
 
 ---
+
+## 🔥 GitHub Streak
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=green_nur)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
-
-## 🛠️ Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark&icon_color=000000)
-
-
-
-
-
 ---
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&theme=dark&hide_progress=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&hide_progress=true&theme=dark&title_color=ffffff&text_color=dddddd&bg_color=0d1117&border_radius=10)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark&icon_color=29bf12&title_color=29bf12&text_color=dddddd&bg_color=0d1117)
 
 ---
 
-## 📫 Contacto
+## 🛠️ Most Used Languages
 
-📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&hide_progress=true&theme=dark&title_color=29bf12&text_color=dddddd&bg_color=0d1117&border_radius=10)
 
---- 
+---
 
-```json
-{
-  "Lenguajes": ["Python", "Java", "JavaScript", "C#", "C++"],
-  "Frontend": ["HTML", "CSS", "Vue.js", "React"],
-  "Backend": ["Node.js", "PHP", "Express", "MySQL"],
-  "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
-}
+
+
+## 📫 Contact
+
+📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)  
+📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/50687590160?text=Hi%20Francisco%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.)
+
+
+---
+
 
