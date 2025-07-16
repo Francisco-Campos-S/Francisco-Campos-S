@@ -34,6 +34,10 @@
 
 
 ---
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranciscoCCR&repo=mi-proyecto)](https://github.com/FranciscoCCR/mi-proyecto)
+
+---
 
 ## 📫 Contacto
 
