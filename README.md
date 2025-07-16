@@ -1,4 +1,3 @@
-<img width="981" height="387" alt="image" src="https://github.com/user-attachments/assets/526885fe-81da-4268-8419-180a260f9f86" />
 
 # 👋 Hi! I'm Francisco Campos Sandi
 
