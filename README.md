@@ -22,10 +22,7 @@
 ## 📫 Contacto
 
 📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Francisco-Campos-S)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark" alt="GitHub Streak" /></a>
 ```json
 {
   "Lenguajes": ["Python", "Java", "JavaScript", "C#", "C++"],
