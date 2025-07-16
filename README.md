@@ -27,6 +27,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark&icon_color=000000)
+
+
+
 
 
 ---
