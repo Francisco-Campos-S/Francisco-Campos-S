@@ -26,5 +26,3 @@ jobs:
           git commit -am "📅 Auto-update README timestamp"
           git push
         continue-on-error: true
-
-
