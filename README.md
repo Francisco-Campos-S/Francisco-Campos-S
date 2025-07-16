@@ -24,6 +24,7 @@
 ## 🛠️ Lenguajes más usados
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark)
 
 
 
