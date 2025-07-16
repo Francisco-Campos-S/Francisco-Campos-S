@@ -22,14 +22,6 @@
 ## 📫 Contacto
 
 📘 Facebook: [Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)
-
-```json
-{
-  "Lenguajes": ["Python", "Java", "JavaScript", "C#", "C++"],
-  "Frontend": ["HTML", "CSS", "Vue.js", "React"],
-  "Backend": ["Node.js", "PHP", "Express", "MySQL"],
-  "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
-}
 [
   "background" => "#151515",
   "border" => "#E4E2E2",
@@ -43,3 +35,13 @@
   "dates" => "#9E9E9E",
   "excludeDaysLabel" => "#9E9E9E",
 ]
+
+
+```json
+{
+  "Lenguajes": ["Python", "Java", "JavaScript", "C#", "C++"],
+  "Frontend": ["HTML", "CSS", "Vue.js", "React"],
+  "Backend": ["Node.js", "PHP", "Express", "MySQL"],
+  "Herramientas": ["Git", "GitHub", "VS Code", "Postman", "Figma"]
+}
+
