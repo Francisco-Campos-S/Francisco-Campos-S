@@ -19,12 +19,8 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
 
-
----
----
-https://streak-stats.demolab.com/?user=Francisco-Campos-S&theme=dark
 ---
 
 ## 📫 Contacto
