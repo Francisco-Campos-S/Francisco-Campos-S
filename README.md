@@ -35,7 +35,8 @@
 
 ---
 ---
-[![Perfil Profesional](https://github-readme-stats.vercel.app/api?username=FranciscoCCR&show_icons=true&theme=dark&border_radius=10&icon_color=ffffff&title_color=ffffff&bg_color=0d1117)](https://github.com/FranciscoCCR)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCCR&theme=dark&hide_progress=true&layout=compact)
+
 
 ---
 
