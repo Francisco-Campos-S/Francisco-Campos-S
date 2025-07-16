@@ -44,5 +44,5 @@
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/50687590160?text=Hi%20Francisco%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.)
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
 ---
