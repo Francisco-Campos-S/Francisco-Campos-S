@@ -36,6 +36,7 @@
 ---
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&theme=dark&hide_progress=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&hide_progress=true&theme=dark&title_color=ffffff&text_color=dddddd&bg_color=0d1117&border_radius=10)
 
 
 ---
