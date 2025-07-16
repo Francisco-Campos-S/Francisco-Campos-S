@@ -19,7 +19,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total,current,longest&card_width=495&card_height=195&type=svg&background-type=solid)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=dark)](https://git.io/streak-stats)
 
 ---
 
