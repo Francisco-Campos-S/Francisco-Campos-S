@@ -21,7 +21,7 @@
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=whatsapp-dark2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=whatsapp-dark2)](https://git.io/streak-stats) 
 
 ## 📊 GitHub Stats
 
