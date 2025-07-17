@@ -35,7 +35,9 @@ jobs:
             git add README.md
             git commit -m "📅 Auto-update README timestamp"
             git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
-            git pull --rebase origin main
-            git push
+            git fetch origin
+            git reset --hard origin/main
+            git push origin main
           fi
+
 
