@@ -1,53 +1,54 @@
+
+
+
 # 👋 Hi! I'm Francisco Campos Sandi
 
 🎓 I'm a **Computer Engineering** student, passionate about software development, automation, and artificial intelligence applied to education.
 
 🧠 Founder of **[Profe Artificial](https://www.facebook.com/profile.php?id=61563914024424)**, an educational project that promotes the use of AI tools in the classroom.
 
----
-
 ## 💻 Languages and Technologies
 
-**Programming Languages:**  
-Python · JavaScript · Java · C# · C++ · LaTeX · Matlab · R Studio
+### Programming Languages:
+`Python` · `JavaScript` · `Java` · `C#` · `C++` · `LaTeX` · `Matlab` · `R Studio`
 
-**Web Development:**  
-HTML · CSS · React · Vue · PHP · Node.js · MySQL
+### Web Development:
+`HTML` · `CSS` · `React` · `Vue` · `PHP` · `Node.js` · `MySQL`
 
-**Tools:**  
-Git · GitHub · VS Code · Postman · Figma
+### Tools:
+`Git` · `GitHub` · `VS Code` · `Postman` · `Figma`
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=whatsapp-dark2&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=green_nur&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark&icon_color=29bf12&title_color=29bf12&text_color=dddddd&bg_color=0d1117)
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=gruvbox&hide_border=true)
 
 ---
 
 ## 🛠️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&hide_progress=true&theme=dark&title_color=29bf12&text_color=dddddd&bg_color=0d1117&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
 
 ## 📫 Contact
 
-[![Facebook](https://img.shields.io/badge/Facebook-Profe%20Artificial-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Campos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/50688440428)
+- 📘 [Facebook](https://www.facebook.com/profile.php?id=61563914024424)
+- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-campos-8269832a5/)
+- 💬 [WhatsApp](https://wa.me/50688888888) <!-- <- Reemplaza con tu número -->
 
 ---
 
-<!--TIMESTAMP--> Last updated: 2025-07-17 21:00:00 UTC
+[![🔄 Update README every 5 minutes](https://github.com/Francisco-Campos-S/Francisco-Campos-S/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Francisco-Campos-S/Francisco-Campos-S/actions/workflows/update-readme.yml)
 
-
+<!--TIMESTAMP--> Last updated: 2025-07-17 00:00:00 UTC
 
 
 
