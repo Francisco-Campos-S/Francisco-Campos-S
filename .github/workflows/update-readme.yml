@@ -2,7 +2,7 @@ name: 🔄 Update README every 5 minutes
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Cada 5 minutos
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -35,6 +35,7 @@ jobs:
             git add README.md
             git commit -m "📅 Auto-update README timestamp"
             git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
+            git pull --rebase origin main
             git push
           fi
 
