@@ -15,15 +15,7 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
 
-      - name: Set up Git
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-
-      - name: Update README timestamp
-        run: |
-          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP--> Last updated: $DATE|" README.md
+      # ... otros pasos ...
 
       - name: Commit and push if changed
         env:
@@ -37,10 +29,3 @@ jobs:
             git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
             git push
           fi
-
-
-
-
-
-
-
