@@ -8,43 +8,45 @@
 
 ## 💻 Languages and Technologies
 
-- **Programming Languages:**  
-  Python · JavaScript · Java · C# · C++ · LaTeX · Matlab · R Studio
+### Programming Languages  
+Python · JavaScript · Java · C# · C++ · LaTeX · Matlab · R Studio
 
-- **Web Development:**  
-  HTML · CSS · React · Vue · PHP · Node.js · MySQL
+### Web Development  
+HTML · CSS · React · Vue · PHP · Node.js · MySQL
 
-- **Tools:**  
-  Git · GitHub · VS Code · Postman · Figma
+### Tools  
+Git · GitHub · VS Code · Postman · Figma
 
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=whatsapp-dark&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=10)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark&icon_color=29bf12&title_color=29bf12&text_color=dddddd&bg_color=0d1117)
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=radical)
 
 ---
 
 ## 🛠️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&hide_progress=true&theme=dark&title_color=29bf12&text_color=dddddd&bg_color=0d1117&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contact
 
-[![Facebook](https://img.shields.io/badge/Facebook-Profe%20Artificial-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Campos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/50687590160?text=Hi%20Francisco%2C%20I%20saw%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you.)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50688888888) <!-- Reemplaza con tu número real si deseas -->
 
 ---
 
 <!--TIMESTAMP--> Last updated: 2025-07-16 00:00:00 UTC
+
 
 
 
