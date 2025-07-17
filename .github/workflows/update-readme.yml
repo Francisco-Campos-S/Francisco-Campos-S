@@ -23,15 +23,16 @@ jobs:
           DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP--> Last updated: $DATE|" README.md
 
-      - name: Check for changes
+      - name: Commit and push if changed
         run: |
           if git diff --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit."
           else
             git add README.md
             git commit -m "📅 Auto-update README timestamp"
             git push
           fi
+
 
 
 
