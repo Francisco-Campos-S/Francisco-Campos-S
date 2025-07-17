@@ -22,7 +22,9 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=merko&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Francisco-Campos-S&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=radical)
+
 
 ## 📊 GitHub Stats
 
