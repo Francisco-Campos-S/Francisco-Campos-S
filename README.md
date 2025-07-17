@@ -62,5 +62,5 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=gruvbox)](https://git.io/streak-stats)
+
 
