@@ -2,7 +2,7 @@ name: 🔄 Update README every 5 minutes
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/5 * * * *'  # Cada 5 minutos
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,15 @@ jobs:
         with:
           token: ${{ secrets.PAT }}
 
-      # ... otros pasos ...
+      - name: Set up Git
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+      - name: Update README timestamp
+        run: |
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP--> Last updated: $DATE|" README.md
 
       - name: Commit and push if changed
         env:
@@ -29,3 +37,4 @@ jobs:
             git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
             git push
           fi
+
