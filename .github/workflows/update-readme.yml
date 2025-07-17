@@ -36,7 +36,7 @@ jobs:
             git commit -m "📅 Auto-update README timestamp"
             git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
             git fetch origin
-            git reset --hard origin/main
+            git merge origin/main --strategy-option theirs
             git push origin main
           fi
 
