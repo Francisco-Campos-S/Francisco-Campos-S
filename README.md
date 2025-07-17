@@ -21,31 +21,32 @@ Git · GitHub · VS Code · Postman · Figma
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=whatsapp-dark2&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark&icon_color=29bf12&title_color=29bf12&text_color=dddddd&bg_color=0d1117)
 
 ---
 
 ## 🛠️ Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&hide_progress=true&theme=dark&title_color=29bf12&text_color=dddddd&bg_color=0d1117&border_radius=10)
 
 ---
 
 ## 📫 Contact
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50688440428)
+[![Facebook](https://img.shields.io/badge/Facebook-Profe%20Artificial-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco%20Campos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/50688440428)
 
 ---
 
 <!--TIMESTAMP--> Last updated: 2025-07-17 21:00:00 UTC
+
 
 
 
