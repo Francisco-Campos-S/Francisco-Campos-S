@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository with PAT
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
 
       - name: Set up Git
         run: |
@@ -24,17 +26,15 @@ jobs:
           sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP--> Last updated: $DATE|" README.md
 
       - name: Commit and push if changed
-        env:
-          PAT: ${{ secrets.PAT }}
         run: |
           if git diff --quiet; then
             echo "No changes to commit."
           else
             git add README.md
             git commit -m "📅 Auto-update README timestamp"
-            git remote set-url origin https://x-access-token:${PAT}@github.com/${{ github.repository }}
             git push
           fi
+
 
 
 
