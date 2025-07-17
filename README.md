@@ -26,8 +26,7 @@
 
 ## 📊 GitHub Stats
 
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=verd)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=dark&icon_color=29bf12&title_color=29bf12&text_color=dddddd&bg_color=0d1117)
 
 ---
 
@@ -45,7 +44,7 @@
 
 ---
 
-
 <!--TIMESTAMP--> Last updated: 2025-07-16 00:00:00 UTC
+
 
 
