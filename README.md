@@ -46,6 +46,6 @@
 
 <!--TIMESTAMP--> Last updated: 2025-07-16 00:00:00 UTC
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=verd)
+
 
 
