@@ -45,9 +45,6 @@
 
 ---
 
-[![🔄 Update README every 5 minutes](https://github.com/Francisco-Campos-S/Francisco-Campos-S/actions/workflows/update-readme.yml/badge.svg)](https://github.com/Francisco-Campos-S/Francisco-Campos-S/actions/workflows/update-readme.yml)
-
-<!--TIMESTAMP--> Last updated: 2025-07-16 00:00:00 UTC
 
 
 
