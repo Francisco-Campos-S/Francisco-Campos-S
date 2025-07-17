@@ -18,12 +18,10 @@ jobs:
           DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP--> Last updated: $DATE|" README.md
 
-      - name: Commit and push changes
+      - name: Commit and push changes if any
         run: |
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
-          git commit -am "📅 Auto-update README timestamp"
-          git push
-        continue-on-error: true
+          git diff --quiet README.md || (git commit -am "📅 Auto-update README timestamp" && git push)
 
 
