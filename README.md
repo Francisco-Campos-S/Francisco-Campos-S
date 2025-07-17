@@ -86,7 +86,8 @@ Want to collaborate or just say hi? Feel free to reach out!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=gruvbox_light&hide_border=false&border_radius=6.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&rank_icon=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&rank_icon=true)
+
 
 
 
