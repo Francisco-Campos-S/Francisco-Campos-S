@@ -44,9 +44,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/506XXXXXXXX)
 
 ---
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=ocean-dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=gruvbox)](https://git.io/streak-stats)
 
 
 
