@@ -88,15 +88,3 @@ Want to collaborate or just say hi? Feel free to reach out!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&rank_icon=true)
 
-# Francisco-Campos-S
-
-![Bienvenida animada](https://media.giphy.com/media/3o7aD6zvLPRFYUuCme/giphy.gif)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=radical)](https://github.com/Francisco-Campos-S)
-
-[Código animado](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
-
-https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif
-
-
-
