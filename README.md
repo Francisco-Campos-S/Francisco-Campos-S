@@ -96,7 +96,7 @@ Want to collaborate or just say hi? Feel free to reach out!
 
 [Código animado](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=github_dark)](https://github.com/Francisco-Campos-S)
+https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif
 
 
 
