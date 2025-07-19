@@ -73,17 +73,20 @@ Want to collaborate or just say hi? Feel free to reach out!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=gruvbox_duo&hide_border=false&border_radius=6.5)](https://git.io/streak-stats)
 
+
 ---
 
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=gruvbox&hide_border=false&border_radius=6.5)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ---
 
 ## 🛠️ Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=gruvbox_light&hide_border=false&border_radius=6.5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&rank_icon=true)
