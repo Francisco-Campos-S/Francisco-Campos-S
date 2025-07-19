@@ -70,9 +70,7 @@ Want to collaborate or just say hi? Feel free to reach out!
 ---
 
 ## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=gruvbox_duo&hide_border=false&border_radius=6.5)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=whatsapp-dark2&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
