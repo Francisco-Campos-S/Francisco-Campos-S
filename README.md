@@ -84,8 +84,7 @@ Want to collaborate or just say hi? Feel free to reach out!
 
 ## 🛠️ Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=gruvbox_light&hide_border=false&border_radius=6.5)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=gruvbox_light&hide_border=false&border_radius=6.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=dark&hide_border=false&border_radius=6.5&bg_color=0D1117&title_color=00FF00&text_color=00DD00&icon_color=00FF00)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
