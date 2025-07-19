@@ -1,11 +1,19 @@
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 15px;">
+
 # 👋 Hi! I'm Francisco Campos Sandi
 
 🎓 I'm a **Computer Engineering** student passionate about software development, automation, and artificial intelligence applied to education.
 
 🧠 Founder of [**Profe Artificial**](https://www.facebook.com/profile.php?id=61563914024424), an educational project promoting the use of AI tools in classrooms.
 
-![Coding GIF](https://media.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif)
-![Code Coding GIF by EscuelaDevRock](https://github.com/user-attachments/assets/8e9572bc-c2ba-4d59-bb95-95e69fc9e4de)
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/user-attachments/assets/8e9572bc-c2ba-4d59-bb95-95e69fc9e4de" width="160" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 
 ---
