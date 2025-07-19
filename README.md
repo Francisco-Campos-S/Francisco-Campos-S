@@ -12,7 +12,6 @@
 </table>
 
 
-![Code Coding GIF by EscuelaDevRock](https://github.com/user-attachments/assets/336b3c2d-64a3-498b-9ee9-9091f44b940c)
 
 ---
 ## 💡 About Me
