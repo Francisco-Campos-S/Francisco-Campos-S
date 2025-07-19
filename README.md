@@ -9,8 +9,9 @@
 🧠 Founder of [**Profe Artificial**](https://www.facebook.com/profile.php?id=61563914024424), an educational project promoting the use of AI tools in classrooms.
 
     </td>
-    <td style="width: 30%; text-align: center;">
-      <img src="./assets/coding.gif" width="160" alt="Coding GIF" />
+    <td ![Code Coding GIF by EscuelaDevRock](https://github.com/user-attachments/assets/05ffad37-39cb-40dd-8fe3-40a230c49a89)
+style="width: 30%; text-align: center;">
+      < />
     </td>
   </tr>
 </table>
