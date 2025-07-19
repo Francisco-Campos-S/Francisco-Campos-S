@@ -2,16 +2,15 @@
   <tr>
     <td style="width: 70%; vertical-align: top;">
 
-<h1>👋 Hi! I'm Francisco Campos Sandi</h1>
+# 👋 Hi! I'm Francisco Campos Sandi
 
-🎓 I'm a <strong>Computer Engineering</strong> student passionate about software development, automation, and artificial intelligence applied to education.
+🎓 I'm a **Computer Engineering** student passionate about software development, automation, and artificial intelligence applied to education.
 
-🧠 Founder of <a href="https://www.facebook.com/profile.php?id=61563914024424"><strong>Profe Artificial</strong></a>, an educational project promoting the use of AI tools in classrooms.
+🧠 Founder of [**Profe Artificial**](https://www.facebook.com/profile.php?id=61563914024424), an educational project promoting the use of AI tools in classrooms.
 
-</td>
+    </td>
     <td style="width: 30%; text-align: center;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR1cWJucHZ0d2hvbTAxaTR5ZXNvM2R3dnlrNGRsNGRrOXE0NXJpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWO
-
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR1cWJucHZ0d2hvbTAxaTR5ZXNvM2R3dnlrNGRsNGRrOXE0NXJpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rm
 
 
 ## 💡 About Me
