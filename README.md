@@ -1,32 +1,16 @@
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 15px;">
-
-# 👋 Hi! I'm Francisco Campos Sandi
-
-🎓 I'm a **Computer Engineering** student passionate about software development, automation, and artificial intelligence applied to education.
-
-🧠 Founder of [**Profe Artificial**](https://www.facebook.com/profile.php?id=61563914024424), an educational project promoting the use of AI tools in classrooms.
-
+    <td>
+      <h1>👋 Hi! I'm Francisco Campos Sandi</h1>
+      <p>🎓 I'm a <strong>Computer Engineering</strong> student passionate about software development, automation, and artificial intelligence applied to education.</p>
+      <p>🧠 Founder of <a href="https://www.facebook.com/profile.php?id=61563914024424"><strong>Profe Artificial</strong></a>, an educational project promoting the use of AI tools in classrooms.</p>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/8e9572bc-c2ba-4d59-bb95-95e69fc9e4de" width="160" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif" width="160" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
-
-<table>
-  <tr>
-    <td>
-      <h3>💻 Lenguaje principal: Python</h3>
-      <p>Este proyecto utiliza Python como lenguaje principal para desarrollar scripts, análisis de datos y automatización.</p>
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif" width="160" alt="Python coding GIF" />
-    </td>
-  </tr>
-</table>
 
 ---
 ## 💡 About Me
