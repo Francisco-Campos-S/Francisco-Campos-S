@@ -6,11 +6,13 @@
       <p>🧠 Founder of <a href="https://www.facebook.com/profile.php?id=61563914024424"><strong>Profe Artificial</strong></a>, an educational project promoting the use of AI tools in classrooms.</p>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/l4lRdl315eruX7S6Y/giphy.gif" width="160" alt="Coding GIF" />
+      <img src="https://github.com/user-attachments/assets/336b3c2d-64a3-498b-9ee9-9091f44b940c" width="160" alt="Code Coding GIF by EscuelaDevRock" />
     </td>
   </tr>
 </table>
 
+
+![Code Coding GIF by EscuelaDevRock](https://github.com/user-attachments/assets/336b3c2d-64a3-498b-9ee9-9091f44b940c)
 
 ---
 ## 💡 About Me
