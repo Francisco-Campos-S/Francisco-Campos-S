@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 15px;">
+    <td style="vertical-align: top; padding-right: 20px;">
 
 # 👋 Hi! I'm Francisco Campos Sandi
 
@@ -9,7 +9,7 @@
 🧠 Founder of [**Profe Artificial**](https://www.facebook.com/profile.php?id=61563914024424), an educational project promoting the use of AI tools in classrooms.
 
     </td>
-    <td style="text-align: center;">
+    <td style="vertical-align: top; text-align: center;">
       <img src="https://github.com/user-attachments/assets/8e9572bc-c2ba-4d59-bb95-95e69fc9e4de" width="160" alt="Coding GIF" />
     </td>
   </tr>
