@@ -89,5 +89,3 @@ Want to collaborate or just say hi? Feel free to reach out!
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&rank_icon=true)
-
