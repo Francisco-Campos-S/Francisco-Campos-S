@@ -94,13 +94,7 @@ Want to collaborate or just say hi? Feel free to reach out!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=radical)](https://github.com/Francisco-Campos-S)
 
-## Descripción
-
-Este repositorio contiene mis proyectos y trabajos personales.
-
----
-
-¡Gracias por visitar mi perfil!
+![Código animado](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
 
 
