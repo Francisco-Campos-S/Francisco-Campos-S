@@ -10,10 +10,11 @@
 
     </td>
     <td style="vertical-align: top; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/8e9572bc-c2ba-4d59-bb95-95e69fc9e4de" width="160" alt="Coding GIF" />
+      <img src=![Code Coding GIF by EscuelaDevRock](https://github.com/user-attachments/assets/df69d6b5-6dcd-4ead-bd93-96fad6678e2e) />
     </td>
   </tr>
 </table>
+
 
 
 ---
