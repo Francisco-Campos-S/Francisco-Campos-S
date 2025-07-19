@@ -10,10 +10,11 @@
 
     </td>
     <td style="width: 30%; text-align: center;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjR1cWJucHZ0d2hvbTAxaTR5ZXNvM2R3dnlrNGRsNGRrOXE0NXJpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="160" alt="Coding GIF" />
+      <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="160" alt="Coding GIF" />
     </td>
   </tr>
 </table>
+
 
 
 
