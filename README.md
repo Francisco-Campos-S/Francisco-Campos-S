@@ -74,7 +74,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>C++</b></sub>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/LaTeX_logo.svg" width="60" alt="LaTeX"><br>
+      <img src="https://latex.org/img/latex-logo.png" width="60" alt="LaTeX"><br>
       <sub><b>LaTeX</b></sub>
     </td>
     <td align="center">
@@ -91,8 +91,6 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
-
-
 
 
 
