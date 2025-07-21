@@ -112,6 +112,8 @@ I'm passionate about creating innovative software solutions that enhance learnin
 ---
 
 ## ⚙️ Tools  
+
+
 <table>
   <tr>
     <td align="center">
@@ -119,8 +121,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>Git</b></sub>
     </td>
     <td align="center">
-      <!-- Imagen personalizada de GitHub (morada) -->
-      <img src="RUTA_DE_TU_IMAGEN_MORADA.svg" width="60" alt="GitHub Morado"><br>
+      <img src="https://chat.openai.com/cdn-cgi/imagedelivery/f_Y7z02L3aLHr0-V5ahMsg/ea4e9df3-9e42-4631-a8e1-85fd66ee8e00/public" width="60" alt="GitHub Morado"><br>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center">
@@ -137,9 +138,6 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
-
-
-
 
 
 ---
