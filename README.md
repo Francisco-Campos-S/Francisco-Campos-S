@@ -75,7 +75,8 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
     <td align="center">
       <a href="https://es.m.wikipedia.org/wiki/Archivo:LaTeX_logo.svg" target="_blank" rel="noopener noreferrer">
-        <img src="https://latex.org/img/latex-logo.png" width="60" alt="LaTeX">
+        <img src=<img width="329" height="139" alt="imagen" src="https://github.com/user-attachments/assets/d79d7dbe-a035-44ed-9e15-39827e275b3d" />
+>
       </a><br>
       <sub><b>LaTeX</b></sub>
     </td>
