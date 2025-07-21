@@ -62,6 +62,13 @@ I'm passionate about creating innovative software solutions that enhance learnin
 
 ---
 
+### Conocimientos de Linux
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+---
+
 ## 🌐 Web Development  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
