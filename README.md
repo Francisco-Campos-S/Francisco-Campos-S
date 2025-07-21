@@ -54,37 +54,40 @@ I'm passionate about creating innovative software solutions that enhance learnin
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"><br>
       <sub><b>Python</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"><br>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"><br>
       <sub><b>Java</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80"><br>
       <sub><b>C#</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"><br>
       <sub><b>C++</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" width="80"><br>
+      <!-- No oficial LaTeX en devicon, uso logo similar PNG -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/LaTeX_logo.svg" width="80" alt="LaTeX"><br>
       <sub><b>LaTeX</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white" width="80"><br>
+      <!-- No oficial MATLAB en devicon, uso logo PNG -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" alt="MATLAB"><br>
       <sub><b>MATLAB</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" width="80"><br>
+      <!-- No oficial R en devicon, uso logo PNG -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="80" alt="R"><br>
       <sub><b>R</b></sub>
     </td>
   </tr>
@@ -95,11 +98,12 @@ I'm passionate about creating innovative software solutions that enhance learnin
   </tr>
   <tr>
     <td align="center" colspan="4">
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"><br>
       <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
+
 
 
 
