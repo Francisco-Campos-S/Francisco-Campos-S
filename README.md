@@ -10,7 +10,9 @@
     </td>
   </tr>
 </table>
+
 ----
+
 <table>
   <tr>
     <td align="center">
@@ -32,10 +34,8 @@
   </tr>
 </table>
 
-
-
-
 ---
+
 ## 💡 About Me
 
 I'm passionate about creating innovative software solutions that enhance learning experiences using AI. I enjoy automating workflows and continuously learning new technologies to improve my skills.
@@ -89,8 +89,6 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
-
-
 
 ---
 
@@ -164,9 +162,6 @@ I'm passionate about creating innovative software solutions that enhance learnin
   </tr>
 </table>
 
-
-
-
 ---
 
 ## 🌍 Languages Spoken
@@ -189,13 +184,11 @@ Want to collaborate or just say hi? Feel free to reach out!
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Francisco-Campos-S&theme=gruvbox_duo&hide_border=false&border_radius=6.5)](https://git.io/streak-stats)
 
-
 ---
 
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Francisco-Campos-S&show_icons=true&theme=gruvbox&hide_border=false&border_radius=6.5)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
@@ -204,14 +197,13 @@ Want to collaborate or just say hi? Feel free to reach out!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Campos-S&layout=compact&theme=tokyonight)](https://github.com/Francisco-Campos-S/github-readme-stats)
 
 ---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Francisco-Campos-S&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rad
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Francisco-Campos-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
