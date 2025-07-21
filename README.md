@@ -121,7 +121,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>Git</b></sub>
     </td>
     <td align="center">
-      <img src="https://chat.openai.com/cdn-cgi/imagedelivery/f_Y7z02L3aLHr0-V5ahMsg/ea4e9df3-9e42-4631-a8e1-85fd66ee8e00/public" width="60" alt="GitHub Morado"><br>
+      <<img width="138" height="158" alt="imagen" src="https://github.com/user-attachments/assets/27868d06-72b2-4981-b8d6-7ec650ae54e5" />><br>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center">
