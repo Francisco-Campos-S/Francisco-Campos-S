@@ -10,6 +10,13 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td align="center"><img src="assets/icons/mysql.png" width="80"><br><sub><b>MySQL</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"><br><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"><br><sub><b>Java</b></sub></td>
+  </tr>
+</table>
 
 
 
