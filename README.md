@@ -154,7 +154,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center">
-      <img id="customImage" src="https://github.com/user-attachments/assets/d86f6afd-bdec-42b8-9878-6cb804368079" width="60" alt="Custom Image"><br>
+      <img src="https://github.com/user-attachments/assets/66ea105b-d29f-413a-a267-36c3629b311c" width="60" alt="Custom"><br>
       <sub><b>Custom</b></sub>
     </td>
     <td align="center">
@@ -163,6 +163,8 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
+
+
 
 
 ---
