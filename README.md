@@ -11,6 +11,7 @@
   </tr>
 </table>
 
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ---
