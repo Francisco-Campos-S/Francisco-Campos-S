@@ -121,7 +121,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>Git</b></sub>
     </td>
     <td align="center">
-      <<img width="138" height="158" alt="imagen" src="https://github.com/user-attachments/assets/27868d06-72b2-4981-b8d6-7ec650ae54e5" />><br>
+      <img src="https://github.com/user-attachments/assets/27868d06-72b2-4981-b8d6-7ec650ae54e5" width="60" alt="GitHub Morado"><br>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center">
@@ -138,6 +138,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
+
 
 
 ---
