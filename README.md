@@ -27,10 +27,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"><br>
       <sub><b>Java</b></sub>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"><br>
-      <sub><b>Linux</b></sub>
-    </td>
   </tr>
 </table>
 
@@ -82,10 +78,6 @@ I'm passionate about creating innovative software solutions that enhance learnin
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60" alt="R"><br>
       <sub><b>R</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"><br>
-      <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
@@ -164,6 +156,18 @@ I'm passionate about creating innovative software solutions that enhance learnin
 
 ---
 
+## 🐧 Conocimientos de Linux  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"><br>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌍 Languages Spoken
 
 - Spanish (Native) 🇨🇷  
@@ -175,8 +179,8 @@ I'm passionate about creating innovative software solutions that enhance learnin
 
 Want to collaborate or just say hi? Feel free to reach out!  
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61563914024424)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-campos-8269832a5/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/506XXXXXXXX)
 
 ---
@@ -203,6 +207,9 @@ Want to collaborate or just say hi? Feel free to reach out!
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Francisco-Campos-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
