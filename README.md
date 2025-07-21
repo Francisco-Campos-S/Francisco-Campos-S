@@ -75,14 +75,9 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
     <td align="center">
       <a href="https://es.m.wikipedia.org/wiki/Archivo:LaTeX_logo.svg" target="_blank" rel="noopener noreferrer">
-        <img src=<img width="329" height="139" alt="imagen" src="https://github.com/user-attachments/assets/d79d7dbe-a035-44ed-9e15-39827e275b3d" />
->
+        <img src="https://github.com/user-attachments/assets/d79d7dbe-a035-44ed-9e15-39827e275b3d" width="60" alt="LaTeX" />
       </a><br>
       <sub><b>LaTeX</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" alt="MATLAB"><br>
-      <sub><b>MATLAB</b></sub>
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60" alt="R"><br>
