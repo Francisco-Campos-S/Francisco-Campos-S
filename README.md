@@ -119,8 +119,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>Git</b></sub>
     </td>
     <td align="center">
-      <<img width="138" height="158" alt="imagen" src="https://github.com/user-attachments/assets/bdff3f17-0a35-4288-a713-80e89d2d98dd" />
->
+      <!-- Imagen personalizada de GitHub (morada) -->
       <img src="RUTA_DE_TU_IMAGEN_MORADA.svg" width="60" alt="GitHub Morado"><br>
       <sub><b>GitHub</b></sub>
     </td>
@@ -138,6 +137,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
+
 
 
 
