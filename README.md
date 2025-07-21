@@ -54,44 +54,53 @@ I'm passionate about creating innovative software solutions that enhance learnin
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="130"><br>
+      <sub><b>Python</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="130"><br>
+      <sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" width="130"><br>
+      <sub><b>Java</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+      <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="130"><br>
+      <sub><b>C#</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="130"><br>
+      <sub><b>C++</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+      <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" width="130"><br>
+      <sub><b>LaTeX</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB"/>
+      <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" width="130"><br>
+      <sub><b>MATLAB</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+      <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" width="130"><br>
+      <sub><b>R</b></sub>
     </td>
   </tr>
-</table>
-
-<br/>
-
-<table>
   <tr>
-    <td align="center">
-      <b>Conocimientos de Linux</b><br/>
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <td align="center" colspan="4" style="padding-top: 20px;">
+      <b>Conocimientos de Linux</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="130"><br>
+      <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
+
 
 
 ---
