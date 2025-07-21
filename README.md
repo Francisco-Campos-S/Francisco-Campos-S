@@ -119,7 +119,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>Git</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" style="filter: invert(1) brightness(2);"><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="60" alt="GitHub Blanco"><br>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center">
@@ -136,6 +136,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
+
 
 
 ---
