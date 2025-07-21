@@ -74,7 +74,9 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>C++</b></sub>
     </td>
     <td align="center">
-     [ <img src="https://latex.org/img/latex-logo.png" width="60" alt="LaTeX"><br>](https://es.m.wikipedia.org/wiki/Archivo:LaTeX_logo.svg)
+      <a href="https://es.m.wikipedia.org/wiki/Archivo:LaTeX_logo.svg" target="_blank" rel="noopener noreferrer">
+        <img src="https://latex.org/img/latex-logo.png" width="60" alt="LaTeX">
+      </a><br>
       <sub><b>LaTeX</b></sub>
     </td>
     <td align="center">
