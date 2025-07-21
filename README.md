@@ -54,55 +54,44 @@ I'm passionate about creating innovative software solutions that enhance learnin
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"><br>
       <sub><b>Python</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"><br>
       <sub><b>JavaScript</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"><br>
       <sub><b>Java</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60"><br>
       <sub><b>C#</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"><br>
       <sub><b>C++</b></sub>
     </td>
     <td align="center">
-      <!-- No oficial LaTeX en devicon, uso logo similar PNG -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/LaTeX_logo.svg" width="80" alt="LaTeX"><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/LaTeX_logo.svg" width="60" alt="LaTeX"><br>
       <sub><b>LaTeX</b></sub>
     </td>
     <td align="center">
-      <!-- No oficial MATLAB en devicon, uso logo PNG -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" alt="MATLAB"><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" alt="MATLAB"><br>
       <sub><b>MATLAB</b></sub>
     </td>
     <td align="center">
-      <!-- No oficial R en devicon, uso logo PNG -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="80" alt="R"><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60" alt="R"><br>
       <sub><b>R</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4" style="padding-top: 15px;">
-      <b>Conocimientos de Linux</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="4">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"><br>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"><br>
       <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
+
 
 
 
