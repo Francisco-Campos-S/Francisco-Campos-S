@@ -98,31 +98,31 @@ I'm passionate about creating innovative software solutions that enhance learnin
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"><br>
       <sub><b>HTML</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"><br>
       <sub><b>CSS</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"><br>
       <sub><b>React</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60"><br>
       <sub><b>Vue.js</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"><br>
       <sub><b>PHP</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"><br>
       <sub><b>Node.js</b></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"><br>
       <sub><b>MySQL</b></sub>
     </td>
   </tr>
