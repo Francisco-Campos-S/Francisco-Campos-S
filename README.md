@@ -126,7 +126,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>MySQL</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="60"><br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="60" alt=".NET"><br>
       <sub><b>.NET</b></sub>
     </td>
     <td align="center">
@@ -135,7 +135,6 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
-
 
 ---
 
