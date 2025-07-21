@@ -154,8 +154,8 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center">
-      <img src="https://assets.brandfolder.com/ql9xq9-7le8zk-v0xusq/original/postman-logo.png" width="60" alt="Postman"><br>
-      <sub><b>Postman</b></sub>
+      <img id="customImage" src="https://github.com/user-attachments/assets/d86f6afd-bdec-42b8-9878-6cb804368079" width="60" alt="Custom Image"><br>
+      <sub><b>Custom</b></sub>
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="60" alt="Figma"><br>
