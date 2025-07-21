@@ -30,7 +30,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
 ---
 
 ## 💻 Programming Languages  
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"><br>
@@ -61,6 +61,10 @@ I'm passionate about creating innovative software solutions that enhance learnin
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="60" alt="R"><br>
       <sub><b>R</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="60" alt="MATLAB"><br>
+      <sub><b>MATLAB</b></sub>
     </td>
   </tr>
 </table>
