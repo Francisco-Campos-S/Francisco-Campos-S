@@ -119,7 +119,9 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>Git</b></sub>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="60" alt="GitHub Blanco"><br>
+      <<img width="138" height="158" alt="imagen" src="https://github.com/user-attachments/assets/bdff3f17-0a35-4288-a713-80e89d2d98dd" />
+>
+      <img src="RUTA_DE_TU_IMAGEN_MORADA.svg" width="60" alt="GitHub Morado"><br>
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center">
@@ -127,7 +129,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <sub><b>VS Code</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/66ea105b-d29f-413a-a267-36c3629b311c" width="60" alt="Custom"><br>
+      <img src="https://github.com/user-attachments/assets/66ea105b-d29f-413a-a267-36c3629b311c" width="60" alt="Postman"><br>
       <sub><b>Postman</b></sub>
     </td>
     <td align="center">
@@ -136,6 +138,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
     </td>
   </tr>
 </table>
+
 
 
 
