@@ -143,7 +143,7 @@ I'm passionate about creating innovative software solutions that enhance learnin
 
 ---
 
-## 🐧 Conocimientos de Linux  
+## 🐧 Linux Knowledge
 <table>
   <tr>
     <td align="center">
