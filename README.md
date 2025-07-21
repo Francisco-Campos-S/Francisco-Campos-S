@@ -125,8 +125,17 @@ I'm passionate about creating innovative software solutions that enhance learnin
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"><br>
       <sub><b>MySQL</b></sub>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="60"><br>
+      <sub><b>.NET</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width="60" alt="Spring Boot"><br>
+      <sub><b>Spring Boot</b></sub>
+    </td>
   </tr>
 </table>
+
 
 ---
 
