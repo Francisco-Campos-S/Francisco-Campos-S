@@ -204,6 +204,3 @@ Want to collaborate or just say hi? Feel free to reach out!
 ![](https://github-contributor-stats.vercel.app/api?username=Francisco-Campos-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-## 📊 Activity Overview
-
-Contributed to [Francisco-Campos-S/angular-full-project](https://github.com/Francisco-Campos-S/angular-full-project), [Francisco-Campos-S/demo](https://github.com/Francisco-Campos-S/demo)
